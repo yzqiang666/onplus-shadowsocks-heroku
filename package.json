@@ -7,6 +7,6 @@
     "ws": "^1.0.1"
   },
   "scripts": {
-    "start": "/app/start.sh"
+    "start": "bash /app/start.sh"
   }
 }
