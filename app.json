@@ -4,11 +4,11 @@
   "env": {
     "METHOD": {
       "description": "加密算法",
-      "value": "aes-256-cfb"
+      "value": "cha20cha20"
     },
     "KEY": {
       "description": "app-password",
-      "value": ""
+      "value": "ss123456"
     }
   }
 }
