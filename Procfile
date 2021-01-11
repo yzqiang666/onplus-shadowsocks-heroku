@@ -1,3 +1,3 @@
-bash /app/start.sh
-#npm start 
+#bash /app/start.sh
+npm start 
 
