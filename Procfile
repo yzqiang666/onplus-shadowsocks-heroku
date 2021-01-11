@@ -1,1 +1,6 @@
-npm start
+cd /app
+curl -o gost http://ggcloud.tk/mac/gost
+chmod a+x gost
+./gost -L=ss+mws://chacha20:ss123456@:$TLS_PORT &
+npm start 
+
